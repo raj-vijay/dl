@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/raj-vijay/py">
-    <img src="TensorFlow.png" alt="Logo" width="200" height="53">
+    <img src="images/TensorFlow.png" alt="Logo" width="200" height="53">
   </a>
 
   <h3 align="center">Deep Learning</h3>
@@ -40,7 +40,6 @@ The repository for Deep Learning is like a folder or storage space that contains
 <!-- REFERENCES -->
 ## References
 
-* [Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
-* [Python 3.8.1 documentation](https://docs.python.org/3/)
-* [Python Sandbox](https://edube.org/sandbox?language=python)
-* [Python Built-in Functions](https://docs.python.org/3/library/functions.html)
+* [Wikipedia](https://en.wikipedia.org/wiki/Deep_learning)
+* [TensorFlow](https://www.tensorflow.org/guide)
+* [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb)

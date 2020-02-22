@@ -3,15 +3,15 @@
 <br />
 <p align="center">
   <a href="https://github.com/raj-vijay/py">
-    <img src="images/python.png" alt="Logo" width="200" height="200">
+    <img src="images/dl.jpg" alt="Logo" width="200" height="200">
   </a>
 
-  <h3 align="center">Python</h3>
+  <h3 align="center">Deep Learning</h3>
 
   <p align="center">
-    Repository for Python
+    Deep Learning with TensorFlow
     <br />
-    <a href="https://docs.python.org/3/"><strong>Explore Documentation</strong></a>
+    <a href="https://www.tensorflow.org/"><strong>Explore Documentation</strong></a>
   </p>
 </p>
 
@@ -19,8 +19,8 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-* [Deep Learning](#Deep Learning)
-  * [Sub Topic](#Sub Topic)
+* [Deep Learning](#Deep-Learning)
+  * [Sub Topic](#Sub-Topic)
 * [The Repository](#The-repository)
 * [References](#References)
 
@@ -35,7 +35,7 @@ Add content here.
 
 
 ## The Repository
-The repository for Python is like a folder or storage space that contains all the files such as code, documentation, images, and more related to my experiments with Deep Learning. It also tracks every change that I or my team makes to each file.
+The repository for Deep Learning is like a folder or storage space that contains all the files such as code, documentation, images, and more related to my experiments with Deep Learning. It also tracks every change that I or my team makes to each file.
 
 <!-- REFERENCES -->
 ## References

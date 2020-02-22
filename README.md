@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/raj-vijay/py">
-    <img src="images/dl.jpg" alt="Logo" width="200" height="200">
+    <img src="images/DL.jpeg" alt="Logo" width="200" height="200">
   </a>
 
   <h3 align="center">Deep Learning</h3>

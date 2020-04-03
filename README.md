@@ -20,7 +20,6 @@
 ## Table of Contents
 
 * [Deep Learning](#Deep-Learning)
-  * [Sub Topic](#Sub-Topic)
 * [The Repository](#The-repository)
 * [References](#References)
 
@@ -28,10 +27,6 @@
 # Deep Learning
 
 Deep learning is subset of a machine learning methods based on artificial neural networks with feature-based learning. Artificial neural networks (ANN) or connectionist systems are computing systems vaguely inspired by the biological neural networks that constitute animal brains. An ANN is based on a collection of connected units or nodes called artificial neurons, which loosely model the neurons in a biological brain. 
-
-## Sub Topic
-
-Add content here.
 
 
 ## The Repository
